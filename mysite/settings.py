@@ -25,7 +25,9 @@ SECRET_KEY = 'uc=fr3x#_0=_8qwk536_6k@x+o+3mv7gp9zr0ovatbr5(2cu&c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'kellfluz.pythonanywhere.com',
+]
 
 
 # Application definition
