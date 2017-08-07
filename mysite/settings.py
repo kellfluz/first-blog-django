@@ -26,7 +26,7 @@ SECRET_KEY = 'uc=fr3x#_0=_8qwk536_6k@x+o+3mv7gp9zr0ovatbr5(2cu&c'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'kellfluz.pythonanywhere.com',
+    'kellfluz.pythonanywhere.com/',
 ]
 
 
